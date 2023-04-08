@@ -1,5 +1,5 @@
 # Django---CRM_APP
-his Django application is a simple CRM (Customer Relationship Management) app that allows users to keep track of their customer records. Users can add, view, edit, and delete customer records. Users must first register and log in before they can access the application's features.
+This Django application is a simple CRM (Customer Relationship Management) app that allows users to keep track of their customer records. Users can add, view, edit, and delete customer records. Users must first register and log in before they can access the application's features.
 
 Installation
 Clone the repository to your local machine using git clone https://github.com/your_username/your_project.git
